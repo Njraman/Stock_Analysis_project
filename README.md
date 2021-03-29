@@ -119,7 +119,7 @@ Due to the above reasons and differences in code, the refactored code ran a lot 
 
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
-Both the original and refactored codes gave the same results for the stocks in 2017 and 2018. Please refer to the spreadsheet "All Stocks Analysis" in the worksheet [VBA_Challenge](Stock_Analysis_project/VBA_Challenge.xlsm).
+Both the original and refactored codes gave the same results for the stocks in 2017 and 2018. Please refer to the spreadsheet "All Stocks Analysis" in the worksheet [VBA_Challenge](VBA_Challenge.xlsm).
 
 
 ### Results for 2017
